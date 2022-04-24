@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="cv.xslt" type="text/xsl" ?>
+<cv>
+	<me
+		name="Abdessalam BENAYYAD"
+		address="Hay Agdal 452 , Meknes , Maroc.  "
+		telephone="+212 7-8178602"
+		email="benayyadabdessalam2000@gmail.com"
+		linkedin="linkedin.com/in/abdessalam-benayyad"
+		github="github.com/benayyad12"
+	>
+	</me>
+	<education>
+		<qualification
+			establishment="Ensias"
+			type="Diplôme d'ingénieur , Ingénierie des Systèmes Embarqués et Mobiles (ISEM)"
+			from="2020"
+			to="2023">
+		</qualification>
+		<qualification
+			establishment="Cpge Omar Ibn Al-khattab"
+			type="PSI"
+			from="2019"
+			to="2020">
+		</qualification>
+		<qualification
+			establishment="Cpge med 6"
+			type="PCSI"
+			from="2018"
+			to="2019">
+		</qualification>
+		<qualification
+			establishment="Mohammed Zerktouni"
+			type="Baccalaureat PC ( Physique Chimie )"
+			from="2017"
+			to="2018">
+		</qualification>
+	</education>
+	<employment>
+		<experience
+			establishment="(Stage interne)"
+			job_title="Developpeur Flutter"
+			from="Juillet 2021"
+			to="août 2021">
+			<description><strong> E-learning Application Mobile :</strong></description>
+			<achievement>Conception et Réalisation d’une application mobile pour la collaboration entre les étudiants et les professeurs</achievement>
+			<achievement>Création des interfaces à l’aide d’AdobeXD</achievement>
+			<achievement>L’implémentation d’une base de données <strong>Firebase</strong></achievement>
+		</experience>
+	</employment>
+	<hobandint>
+		<experience
+			<description><strong> Détection de la source d’un mail (NLP) :</strong></description>
+			<achievement><p>Extraction, visualisation et analyse de données d’Enron Corporation. Prédiction de l’emetteur d’un mail à travers l’analyse de texte.</p></achievement>
+			<achievement><p><strong>Techs:</strong> Git, Python (Pandas , Numpy , nltk , sklearn , seaborn , matplotlib) , Gradio</p></achievement>
+			<p></p>
+			<p></p>
+			<p><strong>Projet Classification des emails :</strong></p>
+			<p>Spam or ham</p>
+			<p>Un projet classique d’apprentissage automatique utilisant les bibliothèques Python pour regrouper un ensemble de données de messages "sms" en "Spam" et "Ham" à l’aide de K-means.</p>
+      <p><strong>Techs/Disciplines : </strong>Git , python , jupyter , sklearn , matplotlib , numpy , pandas</p>
+		</experience>
+	</hobandint>
+	<references>
+		<contact
+			email="Lean six sigma white belt"
+			telephone="Python for everybody"
+			relationship="C/C++">
+		</contact>
+	</references>
+	<para>
+		<p><strong>Vice Président project manager - Enactus Ensias,</strong></p>
+		<p>Excellente expérience d’apprentissage sur la façon d’intégrer les concepts d’entreprenariat appris dans les cours universitaires et de les appliquer à des situations réelles.</p>
+	</para>
+  <lg>
+		 <p></p>
+		 <p><strong>Langues</strong></p>
+		 <p><strong>Arabe :</strong> Avancé</p>
+		 <p><strong>Anglais :</strong> Avancé</p>
+     <p><strong>Français : </strong>Avancé</p>
+	</lg>
+</cv>
