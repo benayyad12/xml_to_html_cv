@@ -16,6 +16,10 @@
 			type="Diplôme d'ingénieur , Ingénierie des Systèmes Embarqués et Mobiles (ISEM)"
 			from="2020"
 			to="2023">
+		    Related Courses: 
+		     <li>Compilation, ARM Cortex M3, Embedded systems Development</li>
+		     <li>Signal Processing, Reel Time, Formal Methods, Embedded System Engineering.</li>
+		     <li>Mobile Systems, Industrial System Control.</li> 
 		</qualification>
 		<qualification
 			establishment="Cpge Omar Ibn Al-khattab"
@@ -50,6 +54,10 @@
 	</employment>
 	<hobandint>
 		<experience
+			establishment="here bro"
+			job_title="Developpeur Flutter"
+			from="Juillet 2021"
+			to="août 2021">
 			<description><strong> Détection de la source d’un mail (NLP) :</strong></description>
 			<achievement><p>Extraction, visualisation et analyse de données d’Enron Corporation. Prédiction de l’emetteur d’un mail à travers l’analyse de texte.</p></achievement>
 			<achievement><p><strong>Techs:</strong> Git, Python (Pandas , Numpy , nltk , sklearn , seaborn , matplotlib) , Gradio</p></achievement>
