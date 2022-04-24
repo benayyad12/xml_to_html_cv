@@ -4,6 +4,46 @@
 		<html>
 			<head>
 				<title style="color:red;"><xsl:value-of select="//cv/me/@name"/></title>
+				<style type="text/css">
+				    body
+						{
+							line-height: 24px;
+							color: black;
+							margin-top: 20px;
+							margin-bottom: 20px;
+              font-family: Georgia, serif;	
+						}	
+						#container 
+						{
+							margin: 0 auto;
+							width: 960px;
+							text-align: left;
+							background-color: #fff;
+							padding-top: 20px;
+							padding-bottom: 20px;
+						}	
+						#me h1
+						{
+							background-color: #09ABF2;
+							color: #fff;
+							font-size:480%;
+							padding: 10px 5px 10px 5px;
+						}
+						#statement
+						{
+							border: 1px solid #aaa;
+							text-align: justify;
+						}
+						#statement p
+						{
+							margin: 10px;
+						}
+						#sxscontainer
+						{
+							margin-top: 20px;
+						}
+						
+				</style>
 				<!-- link to cvedit.js is last element in body tag -->
 			</head>
 			<body>
